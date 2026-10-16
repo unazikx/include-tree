@@ -1,0 +1,49 @@
+{
+  "pins": {
+    "aux-lib": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "Git",
+        "url": "https://git.auxolotl.org/auxolotl/lib"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v1.0.1",
+      "revision": "5158499e95b69dfbaa48baadd2e8e25568938657",
+      "url": null,
+      "hash": "17wr8b8wqci81jn9n29h029sgi63h3jfxb15yplgq21k2ii0iwf5"
+    },
+    "nilla": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nilla-nix",
+        "repo": "nilla"
+      },
+      "branch": "main",
+      "submodules": false,
+      "revision": "6d814dafa6f397ac2087333e5515c617faccba6f",
+      "url": "https://github.com/nilla-nix/nilla/archive/6d814dafa6f397ac2087333e5515c617faccba6f.tar.gz",
+      "hash": "19fsnv0xiiyvrr904jy5cahhdm9acn4jrzi7svhjgdrmkbgf1303"
+    },
+    "nix-unit": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nix-community",
+        "repo": "nix-unit"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.30.0",
+      "revision": "5e224c19c7087daebb7f7ac95acdfdcc08ea7433",
+      "url": "https://api.github.com/repos/nix-community/nix-unit/tarball/v2.30.0",
+      "hash": "141lp2amisk6wcrjgv7liy81p6s07c91hqmd99xb06zb6ymwf3n9"
+    }
+  },
+  "version": 5
+}

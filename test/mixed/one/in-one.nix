@@ -1,0 +1,3 @@
+{
+    in-one-attr = true;
+}

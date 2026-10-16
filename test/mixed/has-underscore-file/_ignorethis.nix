@@ -1,0 +1,3 @@
+{
+    thisShouldNotExist = "death";
+}
